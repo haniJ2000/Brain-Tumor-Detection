@@ -6,10 +6,9 @@ This repository hosts a deep learning solution for automatically detecting brain
 It includes tools for data preprocessing, model training, evaluation, and inference. 
 
 ## Skills:
-
-Deep Learning
-Convolutional Neural Networks (CNNs)
-MRI Image Analysis
-Data Preprocessing
-Model Training and Evaluation
-Inference and Prediction
+* Deep Learning
+* Convolutional Neural Networks (CNNs)
+* MRI Image Analysis
+* Data Preprocessing
+* Model Training and Evaluation
+* Inference and Prediction
